@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Lucas Medeiros",
+      "email": "lucas.medeiros@ambev.com.br",
+      "password": "123456",
+      "role": "admin",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+      "refreshToken": "d2FzZXJtYW5fcmVmcmVzaF90b2tlbg=="
+    },
+    {
+      "id": "2",
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@ambev.com.br",
+      "password": "$2b$10$def456hashedpassword",
+      "role": "user",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+      "refreshToken": "b3RoZXJfcmVmcmVzaF90b2tlbg=="
+    }
+  ],
+  "employees": [
+    {
+      "id": "c65c",
+      "name": "Portia Jimenez",
+      "email": "gobuqit@mailinator.com",
+      "document": "Sit consequuntur sim",
+      "birthdate": "1970-07-05",
+      "phones": [
+        "+1 (657) 979-1686"
+      ],
+      "manager": "Qui non id consequat",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "576e",
+      "name": "Tyrone Willis",
+      "email": "vecu@mailinator.com",
+      "document": "Necessitatibus volup",
+      "birthdate": "1999-04-16",
+      "phones": [],
+      "manager": "Eu aperiam voluptas ",
+      "password": "Pa$$w0rd!",
+      "additionalFields": []
+    },
+    {
+      "id": "0d3d",
+      "name": "Brandon Mayer",
+      "email": "bazovaw@mailinator.com",
+      "document": "Consectetur minim ex",
+      "birthdate": "1976-01-23",
+      "phones": [],
+      "manager": "Ea placeat nulla nu",
+      "password": "Pa$$w0rd!",
+      "additionalFields": [
+        {
+          "label": "Nihil saepe voluptat",
+          "value": "Ratione incididunt o"
+        },
+        {
+          "label": "Illum enim officiis",
+          "value": "Deserunt voluptatem"
+        },
+        {
+          "label": "Nulla error sunt do",
+          "value": "Laboriosam unde est"
+        },
+        {
+          "label": "Consequatur Quia de",
+          "value": "Rerum quibusdam inve"
+        }
+      ]
+    },
+    {
+      "id": "68a9",
+      "name": "Boris Roberts",
+      "email": "furunohed@mailinator.com",
+      "document": "Dolor rem cum est do",
+      "birthdate": "2006-01-26",
+      "phones": [
+        "+1 (269) 602-8724"
+      ],
+      "manager": "Consequatur labore ",
+      "password": "Pa$$w0rd!",
+      "additionalFields": [
+        {
+          "label": "Est quod facere eni",
+          "value": "Consectetur consequ"
+        },
+        {
+          "label": "Sed quas qui sed dig",
+          "value": "Reprehenderit et cup"
+        }
+      ]
+    }
+  ]
+}

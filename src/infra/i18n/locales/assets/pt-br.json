@@ -1,0 +1,52 @@
+{
+  "loginTitle": "Olá, Colaborador",
+  "welcomeMessage": "Welcome to the Ambev portal",
+  "emailLabel": "Email",
+  "password": "Senha",
+  "enter": "Entrar",
+  "forgotPassword": "Esqueci a senha",
+  "errorLoggingCheckYourCredentials": "Erro ao fazer login. Verifique suas credenciais!",
+  "employeeForm": {
+    "title": "Formulário do Funcionário",
+    "name": "Nome",
+    "namePlaceholder": "Insira o nome do funcionário",
+    "email": "Email",
+    "emailPlaceholder": "Insira o email do funcionário",
+    "document": "Documento",
+    "documentPlaceholder": "Insira o documento do funcionário",
+    "birthdate": "Data de Nascimento",
+    "birthdatePlaceholder": "Selecione a data de nascimento",
+    "phones": "Telefones",
+    "phonePlaceholder": "Insira o número do telefone",
+    "manager": "Gerente",
+    "managerPlaceholder": "Insira o nome do gerente",
+    "password": "Senha",
+    "passwordPlaceholder": "Insira uma senha",
+    "additionalFields": "Campos Adicionais",
+    "additionalFieldLabelPlaceholder": "Nome do campo adicional",
+    "additionalFieldValuePlaceholder": "Valor do campo adicional",
+    "successMessage": "Funcionário cadastrado com sucesso!",
+    "errorMessage": "Erro ao cadastrar funcionário.",
+    "submitButton": "Cadastrar",
+    "backButton": "Voltar"
+  },
+  "employeeList": {
+    "appBarTitle": "Gestão de Funcionários",
+    "menu": {
+      "logout": "Sair"
+    },
+    "title": "Lista de Funcionários",
+    "noEmployees": "Nenhum funcionário encontrado",
+    "tableHeaders": {
+      "id": "ID",
+      "name": "Nome",
+      "email": "Email",
+      "document": "Documento",
+      "manager": "Gestor",
+      "actions": "Ações"
+    },
+    "buttons": {
+      "newUser": "Novo Usuário"
+    }
+  }
+  }
