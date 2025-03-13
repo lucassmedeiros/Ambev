@@ -1,5 +1,7 @@
 # Introduction
 
+Projeto foi create e desenvolvido em 15 horas de trabalho
+
 Comando	Descrição
 npm run dev	Inicia o servidor local da aplicação.
 npm run dev:db	Inicia o JSON Server.
